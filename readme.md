@@ -1,5 +1,4 @@
-# Python for Librarians workshop
-## Penn Libraries
+# Python for Librarians Workshop, Penn Libraries
 
 ## Presenters
 - Stephen Hall, Computer Science and Engineering Librarian: https://www.library.upenn.edu/staff/stephen-hall
