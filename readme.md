@@ -9,7 +9,7 @@
 
 Setup
 
-- Go to https://colab.google
+- Go to https://colab.research.google.com
 
 - "Open Colab"
 
