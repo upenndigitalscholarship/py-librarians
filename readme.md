@@ -1,6 +1,5 @@
 # Python for Librarians workshop
 ## Penn Libraries
-## July 18, 2023
 
 ## Presenters
 - Stephen Hall, Computer Science and Engineering Librarian: https://www.library.upenn.edu/staff/stephen-hall
