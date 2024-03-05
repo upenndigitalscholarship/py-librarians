@@ -32,7 +32,7 @@ OR
 
 - Dataquest premium membership (1 year) through Penn Libraries partnership. Sign up here: https://guides.library.upenn.edu/Python
 
-- Library Juice Academy "Python for Librarians" 4 week course (runs September and November 2023): https://libraryjuiceacademy.com/shop/course/270-python-for-librarians/
+- Library Juice Academy "Python for Librarians" 4 week course (runs April and September 2024): https://libraryjuiceacademy.com/shop/course/270-python-for-librarians/
 
 - Library Carpentries frequently offers Python workshops targeted to the needs of librarians: https://carpentries.org/
 
