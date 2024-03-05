@@ -23,7 +23,7 @@ OR
 
 ## Resources in this directory
 
-- Slides
+- Slides: https://www.canva.com/design/DAFo5rM6FyM/AhQoXoh1_3NfCcIo8ozfog/view?utm_content=DAFo5rM6FyM
 
 - Example scripts for librarians
 
