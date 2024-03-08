@@ -65,26 +65,3 @@ OR
 
 - Pandoc makes it easy to convert documents from one format to another: https://boisgera.github.io/pandoc/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Welcome to the WMF Etherpad installation. Please keep in mind all current as well as past content in any pad is public. Removing content from a pad does not mean it is deleted. Keep in mind as well that there is no guarantee that a pad's contents will always be available. A pad may be corrupted, deleted or similar. Please keep a copy of important data somewhere else as well. Note that Wikimedia Code of Conduct (https://www.mediawiki.org/wiki/Code_of_Conduct) applies in this Etherpad instance as well.
