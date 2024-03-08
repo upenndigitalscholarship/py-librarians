@@ -13,9 +13,9 @@ Setup
 
 - Sign in with your Google account
 
-- GitHub tab
+- "Open Notebook" pop-up: GitHub tab
 
-- Enter https://github.com/smhall817/codingprimer.git
+- Enter https://github.com/upenndigitalscholarship/py-librarians.git
 
 OR
 
